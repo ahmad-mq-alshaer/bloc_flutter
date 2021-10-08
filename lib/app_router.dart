@@ -1,10 +1,10 @@
-import 'package:bloc_flutter/busniess_logic/cubit/characters_cubit.dart';
-import 'package:bloc_flutter/constants/strings.dart';
-import 'package:bloc_flutter/data/models/characters.dart';
-import 'package:bloc_flutter/data/repository/characters_repositor.dart';
-import 'package:bloc_flutter/data/web_services/characters_web_services.dart';
-import 'package:bloc_flutter/presentation/screens/characters_details.dart';
-import 'package:bloc_flutter/presentation/screens/characters_screen.dart';
+import 'busniess_logic/cubit/characters_cubit.dart';
+import 'constants/strings.dart';
+import 'data/models/characters.dart';
+import 'data/repository/characters_repositor.dart';
+import 'data/web_services/characters_web_services.dart';
+import 'presentation/screens/characters_details.dart';
+import 'presentation/screens/characters_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

@@ -1,6 +1,6 @@
-import 'package:bloc_flutter/constants/my_colors.dart';
-import 'package:bloc_flutter/constants/strings.dart';
-import 'package:bloc_flutter/data/models/characters.dart';
+import '../../constants/my_colors.dart';
+import '../../constants/strings.dart';
+import '../../data/models/characters.dart';
 import 'package:flutter/material.dart';
 
 class CharacterItem extends StatelessWidget {

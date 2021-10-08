@@ -1,9 +1,9 @@
 import 'dart:ui';
 
-import 'package:bloc_flutter/busniess_logic/cubit/characters_cubit.dart';
-import 'package:bloc_flutter/constants/my_colors.dart';
-import 'package:bloc_flutter/data/models/characters.dart';
-import 'package:bloc_flutter/presentation/widgets/character_item.dart';
+import '../../busniess_logic/cubit/characters_cubit.dart';
+import '../../constants/my_colors.dart';
+import '../../data/models/characters.dart';
+import '../widgets/character_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_offline/flutter_offline.dart';
